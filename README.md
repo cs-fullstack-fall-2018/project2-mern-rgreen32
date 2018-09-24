@@ -8,19 +8,22 @@ Create a live journal. Allow users to create journal entres and view them later.
 Use HTML, CSS, and JavaScript to make your site aesthetically pleasing. Use images 1-3 that is attached to this page as references to aesthectically pleasing.
 
 #### Functionality (10 pts)
-Users need to add, delete, and edit each post. The home page will list all blog posts in your database. <strong>Add An Entry<strong> page will add a journey entry to your database. When creating a blog post, use the attributes below:
+Users need to add, delete, and edit each journal entry. The pages to be included are below:
+- <strong>Home page</strong>: Show the latest journey entry post.(It should have a sidebar that lists all users and a link to show only their blog posts)
+- <strong>All Posts</strong>: Show all of the journey entries in your database.
+- <strong>Add An Entry</strong>: Add a journal entry to your database.
+- <strong>List of Usernames</strong>: Show a list of all authors as links. When clicked, present only the blog posts by that author.
+- <strong>Entries By Author</strong>: Show all journal entries by Author
+- <strong>All Entries By Date</strong>: Show all journal entries sorted by Date.
 
-Attributes of a journal entry
+When creating a blog post, use the attributes below:
 - Username
 - Title
 - Journal Entry
 - Date
 - Image
 
-Pages to be included
-- Home page. Show the latest journey entry post.(It should have a sidebar that lists all users and a link to show only their blog posts)
-- Add a blog post entry
-- Additional entries where users can select the rest of your blog posts. Only show the date and title of each with a link to the entire blog.
+
 
 Extra Work:
 Make the latest blog show up on the front page.
