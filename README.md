@@ -20,7 +20,6 @@ When creating a new journal entry, use the attributes below:
 - Title
 - Journal Entry
 - Date
-- Image
 
 
 #### Extra Work:
