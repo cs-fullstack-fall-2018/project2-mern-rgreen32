@@ -9,7 +9,6 @@ Use HTML, CSS, JavaScript, React to make your site aesthetically pleasing. Use i
 
 #### Functionality (10 pts)
 Users need to add a journal entry. The links/changes to be included are below:
-- <strong>Latest Entry (Home Page)</strong>: Show the latest journey entry post.(It should have a sidebar that lists all users and a link to show only their blog posts)
 - <strong>All Entries</strong>: Show all of the journey entries in your database.
 - <strong>Add An Entry</strong>: Add a journal entry to your database. Attributes are below
 
